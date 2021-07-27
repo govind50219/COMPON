@@ -1,0 +1,33 @@
+body,html {
+    margin: 0;
+  }
+
+  .navbar {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    transition: top 0.3s;
+    padding: 2vh;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  
+  .navbarlinks {
+    color:white;
+    text-decoration: none;
+    font-size: 1vw;
+    padding: 1vh 0px;
+    margin: 0px 2vw;
+  }
+  .loginbutton{
+    background-color: #030942;
+    padding: 1vh 3vw;
+    color:white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1vw;
+    margin: 0px 2vw ;
+  }
