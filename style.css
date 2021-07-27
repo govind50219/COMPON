@@ -15,7 +15,7 @@ body {
   height:50vh;
 }
 .subsec1{
-  width:35vw;
+  width:50vw;
   margin:0 auto;
   text-align: center;
   padding: 2vh 0vh;
@@ -94,8 +94,8 @@ body {
   border-radius: 10px;
 }
 .team-card img{
-  width:10vw;
-  height: 10vw;
+  width:18vw;
+  height: 18vw;
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
